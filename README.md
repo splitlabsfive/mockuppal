@@ -90,3 +90,14 @@ Made with ❤️ by <b>SplitLabsFive</b>
 <p align="center">
   <sub>🧩 Version 2.0.1 — © 2025 <b>SplitLabsFive</b>. All rights reserved.</sub>
 </p>
+
+---
+
+### 🌐 SEO Keywords & Tech Stack
+E-commerce video generator • AI-powered SaaS automation • Manus.im integration • HTML, CSS, JavaScript • Hostinger static deployment • Creative automation for Etsy, Amazon, and eBay sellers.  
+**Tags:** ai-video-generation · ecommerce-video-generator · saas-automation-tools · creative-automation · web-video-editor · hostinger-deployment · splitlabsfive-project  
+
+<p align="center">
+  <sub>Optimized by <b>SplitLabsFive</b> — building intelligent tools that empower creators and online sellers.</sub>
+</p>
+
